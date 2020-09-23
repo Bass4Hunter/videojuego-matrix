@@ -1,6 +1,4 @@
-# videojuego-matrix
-
-LINEAS DE COMANDO EN LINUX :
+# USAR GITHUB EN LINUX :
 
 ## 1.- Clonar proyecto "videojuego-matrix"
 
