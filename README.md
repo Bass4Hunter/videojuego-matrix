@@ -4,7 +4,7 @@
 
 `sudo git clone https://github.com/Bass4Hunter/videojuego-matrix.git`
 
-## 2.- Ingresar a la carpeta clonada "videojuego-matrix" y los cambios deseados.
+## 2.- Ingresar a la carpeta clonada "videojuego-matrix" y realizar los cambios deseados.
 
 ## 4.- Declarar los archivos que se desean agregar o modificar 
 
