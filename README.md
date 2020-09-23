@@ -1,5 +1,6 @@
 # videojuego-matrix
 LINEAS DE COMANDO EN LINUX :
+
 1.- Clonar proyecto "videojuego-matrix"
 
 Copiar y pegar la siguiente linea en la terminal: 
